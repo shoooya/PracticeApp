@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Practice App</string>
+    <string name="name_age_button">Name Age DB</string>
+    <string name="button_delete_all">すべて削除</string>
+    <string name="button_delete">削除</string>
+    <string name="button_update">更新</string>
+    <string name="button_insert">登録</string>
+    <string name="button_show_db">データベースの中身を閲覧</string>
+    <string name="label_name_age_input_title">名前と年齢を入力してください</string>
+    <string name="label_name">名前</string>
+    <string name="label_age">年齢</string>
+</resources>
